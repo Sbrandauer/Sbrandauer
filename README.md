@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning UX/UI team work
 - 💞️ I’m looking to collaborate on accesible and visionary projects
 - 📫 How to reach me sgbrandauer@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm black belt at tae-kwon-do and hairdresser
 
 <!---
